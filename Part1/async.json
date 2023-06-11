@@ -1,0 +1,12 @@
+{
+  "function" "foo()",
+  {
+    "someAsyncFunction(params",
+    "function(err",
+    "results)" {
+      "console.log(“one”);"
+    }
+    ");",
+    "console.log(“two”);"
+  }
+}

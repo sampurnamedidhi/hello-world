@@ -1,0 +1,14 @@
+{
+  "_id": "ObjectId(\"523b1153a2aa6a3233a913f8\")",
+  "requiresAuthentication": false,
+  "modifiedDate": "ISODate(\"2014-08-29T17:40:22Z\")",
+  "permanentlyRemoved": false,
+  "feedURL": "http://feeds.feedburner.com/eater/nyc",
+  "title": "Eater NY",
+  "bozoBitSet": false,
+  "enabled": true,
+  "etag": "4bL78iLSZud2iXd/vd10mYC32BE",
+  "link": "http://ny.eater.com/",
+  "permanentRedirectURL": null,
+  "description": "The New York City Restaurant, Bar, and Nightlife Blog”
+}

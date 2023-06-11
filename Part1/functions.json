@@ -1,0 +1,27 @@
+{
+  "actionArray" "=",
+  [
+    "function",
+    "one(cb)",
+    {
+      "someAsyncFunction(params",
+      "function(err",
+      "results)" {
+        "if" "(err)",
+        {
+          "cb(new" "Error(“There",
+          "was" "an",
+          "error”));"
+        },
+        "console.log(“one”);" "cb(null);"
+      }
+      ");",
+    },
+    "function",
+    "two(cb)",
+    {
+      "console.log(“two”);" "cb(null);"
+    }
+  ],
+  "<p>async.series(actionArray);"
+}

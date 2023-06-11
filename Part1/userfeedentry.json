@@ -1,0 +1,7 @@
+{
+  "_id": "ObjectId(\"523b2fcc054b1b8c579bdb82\")",
+  "read": true,
+  "user_id": "ObjectId(\"54ad6c3ae764de42070b27b1\")",
+  "feed_entry_id": "ObjectId(\"523b1153a2aa6a3233a91412\")",
+  "feed_id": "ObjectId(\"523b1153a2aa6a3233a913f8\")"
+}

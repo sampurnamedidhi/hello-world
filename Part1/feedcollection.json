@@ -1,0 +1,20 @@
+{
+  "_id": "ObjectId(\"523b1153a2aa6a3233a91412\")",
+  "description": "Buzzfeed asked a bunch of people...”,,
+  "title": "Cronut Mania: Buzzfeed asked a bunch of people...",
+  "summary": "Buzzfeed asked a bunch of people that were...”,,
+  "content": [
+    {
+      "base": "http://ny.eater.com/",
+      "type": "text/html",
+      "value": "”LOTS",
+      "OF" "HTML",
+      "HERE" ",,
+      "language": "en"
+    }
+  ],
+  "entryID": "tag:ny.eater.com,2013://4.560508",
+  "publishedDate": "ISODate(\"2013-09-17T20:45:20Z\")",
+  "link": "http://ny.eater.com/archives/2013/09/cronut_mania_41.php",
+  "feedID": "ObjectId(\"523b1153a2aa6a3233a913f8\")"
+}
